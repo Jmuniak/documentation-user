@@ -91,9 +91,9 @@ invoices. This approach is used by services companies that invoice
 mostly based on time and material. For services companies that invoice
 on fix price, they use a regular sales order.
 
-.. todo:: Read more:
-	-  *How to invoice based on time and material?*
-	-  *How to manage contracts and invoicing plans?*
+.. todo:: ..seealso::
+   - How to invoice based on time and material?
+   - How to manage contracts and invoicing plans?
 
 Recurring Contracts ‣ Invoices
 ------------------------------

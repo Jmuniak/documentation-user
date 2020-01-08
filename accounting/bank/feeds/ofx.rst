@@ -11,8 +11,7 @@ software and import it directly in your Odoo instance. This will create
 all bank statements.
 
 .. tip::
-
-	Test now the feature `with this sample OFX file <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>`__
+   Test now the feature `with this sample OFX file <https://drive.google.com/file/d/0B5BDHVRYo-q5Mmg4T3oxTWszeEk/view>`__
 
 Configuration
 =============
@@ -60,8 +59,7 @@ complete the next payments you get or do to these contacts. This will
 speed up a lot the reconciliation process.
 
 .. seealso::
-
-	* :doc:`qif`
-	* :doc:`coda`
-	* :doc:`synchronize`
-	* :doc:`manual`
+   * :doc:`qif`
+   * :doc:`coda`
+   * :doc:`synchronize`
+   * :doc:`manual`
